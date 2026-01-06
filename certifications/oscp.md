@@ -5,6 +5,7 @@ d’Offensive Security.
 
 🔗 **Vérification officielle :**  
 https://www.credential.net/45e4b2b5-083c-4224-9f7f-7c663b637a52#acc.W0ZRQapF
+Date d'obtention : 26 mai 2024
 
 ---
 
