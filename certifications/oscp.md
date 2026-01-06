@@ -1,16 +1,38 @@
 # OSCP – Offensive Security Certified Professional
 
-Certification obtenue après la réalisation de laboratoires pratiques
-et la réussite de l’examen OSCP.
+Certification obtenue après la réussite de l’examen pratique
+d’Offensive Security.
+
+🔗 **Vérification officielle :**  
+https://www.credential.net/45e4b2b5-083c-4224-9f7f-7c663b637a52#acc.W0ZRQapF
+
+---
 
 ## Compétences validées
-- Enumération réseau et applicative
-- Exploitation de vulnérabilités
-- Privilege escalation Linux et Windows
-- Attaques Active Directory
-- Pivoting et accès à des réseaux segmentés
-- Rédaction d’un rapport technique professionnel
+- Kali Linux
+- Network Vulnerability Scanning
+- Buffer Overflow Exploits
+- Client Side Attacks
+- Web Exploitation
+- Password Attacks
+- Pivoting and Tunneling
+- Bash Scripting
+- Information Gathering
+- Privilege Escalation
+
+---
+
+## Méthodologie
+Approche structurée orientée :
+- reconnaissance exhaustive
+- exploitation contrôlée
+- post-exploitation réaliste
+- documentation claire et reproductible
+
+---
 
 ## Reporting
-Un rapport technique complet a été rédigé conformément aux standards
-Offensive Security (structure, preuves, impact, remédiations).
+Rédaction d’un rapport technique complet conforme aux standards Offensive Security :
+- preuves techniques
+- analyse d’impact
+- recommandations de remédiation
