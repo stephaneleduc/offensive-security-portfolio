@@ -33,8 +33,6 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 ## 📂 Contenu du dépôt
 - `certifications/` : détails des certifications obtenues
 - `experience/` : résumé des plateformes et compétitions
-- `skills/` : compétences techniques et méthodologies
-- `selected-writeups/` : exemples de chaînes d’attaque documentées
 
 ⚠️ Aucun test n’a été réalisé sur des systèmes sans autorisation.
 
