@@ -4,7 +4,7 @@ Pentester orienté cybersécurité offensive, certifié OSCP.
 Expérience acquise via les laboratoires Offensive Security, Hack The Box
 et des compétitions CTF (404CTF).
 
-Tous les travaux présentés ici ont été réalisés dans des environnements
+Tous les travaux présentés ici ont été réalisés **à titre strictement personnel**, dans des environnements
 légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 
 ---
@@ -35,6 +35,8 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 - `experience/` : résumé des plateformes et compétitions
 - `skills/` : compétences techniques et méthodologies
 - `selected-writeups/` : exemples de chaînes d’attaque documentées
+
+⚠️ Aucun test n’a été réalisé sur des systèmes sans autorisation.
 
 ---
 
