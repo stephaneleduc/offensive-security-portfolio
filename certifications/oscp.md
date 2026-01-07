@@ -4,7 +4,7 @@ Certification obtenue après la réussite de l’examen pratique
 d’Offensive Security.
 
 🔗 **Vérification officielle :**  
-https://www.credential.net/45e4b2b5-083c-4224-9f7f-7c663b637a52#acc.W0ZRQapF
+https://credentials.offsec.com/45e4b2b5-083c-4224-9f7f-7c663b637a52#acc.XrkW36fu
 
 Date d'obtention : 26 mai 2024
 
