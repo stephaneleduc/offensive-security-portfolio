@@ -40,5 +40,6 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 
 ---
 
-📌 Des write-ups plus détaillés et des notes techniques sont disponibles
-dans des dépôts séparés référencés au sein de ce portfolio.
+📌 Dépôts complémentaires :
+- 🛠️ Outils & automatisation : lien à venir
+- 🧪 Write-ups techniques : lien à venir (accès sur demande)
