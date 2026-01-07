@@ -23,7 +23,7 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 
 ## 🛠️ Compétences clés
 - Web pentesting (OWASP Top 10, logique applicative)
-- Active Directory attacks
+- Attaques Active Directory
 - Privilege escalation Linux & Windows
 - Pivoting & réseaux segmentés
 - Rédaction de rapports techniques
@@ -40,5 +40,5 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 
 ---
 
-📌 Des write-ups plus détaillés et notes techniques sont disponibles
-dans des dépôts séparés référencés ici.
+📌 Des write-ups plus détaillés et des notes techniques sont disponibles
+dans des dépôts séparés référencés au sein de ce portfolio.
