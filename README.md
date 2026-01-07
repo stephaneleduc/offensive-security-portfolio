@@ -10,7 +10,6 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 ---
 
 ## 🔐 Certifications
-**OSCP – Offensive Security Certified Professional**
 [![OSCP](assets/badge-oscp.png)](https://credentials.offsec.com/45e4b2b5-083c-4224-9f7f-7c663b637a52#acc.GtVf68dE)
 
 ---
