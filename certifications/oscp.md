@@ -20,6 +20,8 @@ Date d'obtention : 26 mai 2024
 - Bash Scripting
 - Information Gathering
 - Privilege Escalation
+- Metasploit
+- Active Directory (Enumeration, Authentication, Lateral Movement)
 
 ---
 
