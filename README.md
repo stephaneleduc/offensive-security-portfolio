@@ -39,5 +39,8 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 ---
 
 📌 Dépôts complémentaires :
-- 🛠️ Outils & automatisation : lien à venir
-- 🧪 Write-ups techniques : lien à venir (accès sur demande)
+- 🛠️ **Outils & automatisation** :  
+  Offensive Security Tooling – inventaire des outils utilisés en cybersécurité offensive  
+  👉 https://github.com/stephaneleduc/offensive-security-tooling
+- 🧪 **Write-ups techniques** :  
+  Chaînes d’attaque et notes techniques (accès sur demande)
