@@ -47,3 +47,8 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
   
 - 🧪 **Write-ups techniques** :  
   Chaînes d’attaque et notes techniques (accès sur demande)
+
+---
+
+![License](https://img.shields.io/github/license/stephaneleduc/offensive-security-portfolio)
+![Repo size](https://img.shields.io/github/repo-size/stephaneleduc/offensive-security-portfolio)
