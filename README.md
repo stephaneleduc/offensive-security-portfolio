@@ -1,5 +1,7 @@
 # Offensive Security Portfolio
 
+Portfolio destiné à démontrer mes compétences pratiques en pentesting et cybersécurité offensive, avec méthodologie claire et exemples concrets d’analyses.
+
 Pentester orienté cybersécurité offensive, certifié OSCP.
 Expérience acquise via les laboratoires Offensive Security, Hack The Box
 et des compétitions CTF (404CTF).
