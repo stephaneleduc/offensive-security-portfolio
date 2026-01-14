@@ -42,5 +42,6 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 - 🛠️ **Outils & automatisation** :  
   Offensive Security Tooling – inventaire des outils utilisés en cybersécurité offensive  
   👉 https://github.com/stephaneleduc/offensive-security-tooling
+  
 - 🧪 **Write-ups techniques** :  
   Chaînes d’attaque et notes techniques (accès sur demande)
