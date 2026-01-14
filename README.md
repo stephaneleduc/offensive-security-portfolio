@@ -18,7 +18,8 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 
 ## 🧪 Environnements pratiqués
 - Offensive Security Labs
-- Hack The Box (focus Active Directory et réseau)
+- Hack The Box – pratique régulière sur machines Linux/Windows et ProLabs  
+  👉 Profil : https://app.hackthebox.com/public/users/2044018
 - CTF : 404CTF 2025
 
 ---
