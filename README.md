@@ -47,7 +47,7 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
   👉 https://github.com/stephaneleduc/offensive-security-tooling
   
 - 🧪 **Write-ups techniques** :  
-  Chaînes d’attaque et notes techniques (accès sur demande)
+  Chaînes d’attaque et notes techniques (accès sur demande)  
   👉 https://github.com/stephaneleduc/writeups-technical
 
 ---
