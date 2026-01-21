@@ -48,6 +48,7 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
   
 - 🧪 **Write-ups techniques** :  
   Chaînes d’attaque et notes techniques (accès sur demande)
+  👉 https://github.com/stephaneleduc/writeups-technical
 
 ---
 
