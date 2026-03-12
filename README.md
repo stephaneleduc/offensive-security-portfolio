@@ -45,9 +45,13 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
 - 🛠️ **Outils & automatisation** :  
   Offensive Security Tooling – inventaire des outils utilisés en cybersécurité offensive  
   👉 https://github.com/stephaneleduc/offensive-security-tooling
-  
+
+- 🔗 **Exemples de chaînes d'attaques** :
+  Chaînes d'attaques et exploitation
+  👉 https://github.com/stephaneleduc/offensive-attack-chains
+
 - 🧪 **Write-ups techniques** :  
-  Chaînes d’attaque et notes techniques (accès sur demande)  
+  Write-ups HTB/OFFSEC et notes techniques (accès sur demande)  
   👉 https://github.com/stephaneleduc/writeups-technical
 
 ---
