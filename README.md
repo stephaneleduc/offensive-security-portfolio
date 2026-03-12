@@ -47,7 +47,7 @@ légaux et contrôlés (labs, CTF, machines volontairement vulnérables).
   👉 https://github.com/stephaneleduc/offensive-security-tooling
 
 - 🔗 **Exemples de chaînes d'attaques** :
-  Chaînes d'attaques et exploitation
+  Chaînes d'attaques et exploitation  
   👉 https://github.com/stephaneleduc/offensive-attack-chains
 
 - 🧪 **Write-ups techniques** :  
